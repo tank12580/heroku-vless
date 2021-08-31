@@ -9,7 +9,7 @@
 ## The part with a strikethrough indicates that it is not applicable or has been obsoleted
 ## It is forbidden to promote this project on any website!!!!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Dimitri2020007/heroku-vless.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/tank12580/heroku-vless.git)
 
 # VLESS Client Setup
 
